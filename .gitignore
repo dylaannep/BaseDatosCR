@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+
+# Visual Studio / .NET
+bin/
+obj/
+*.db
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+
+# VS Code
+.vscode/
+
+# Archivos de build
+*.dll
+*.exe
+*.so
+*.a
+*.lib
+*.dylib
+
+# Datos de migraciones innecesarios
+Migrations/
+
+# Archivos CSV temporales
+*.csv
