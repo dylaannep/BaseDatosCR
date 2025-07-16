@@ -5,6 +5,7 @@ namespace Tarea4DylanEspinozaPereira.Models
 {
     public class Canton
     {
+        //Prueba commit
         // Clave primaria
         [Key]
         // Clave foránea a la provincia
